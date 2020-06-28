@@ -1,0 +1,3 @@
+/Users/liuqi/Documents/gcc_test/gcc_demo/gcc_receiver/build/CMakeFiles/rebuild_cache.dir
+/Users/liuqi/Documents/gcc_test/gcc_demo/gcc_receiver/build/CMakeFiles/edit_cache.dir
+/Users/liuqi/Documents/gcc_test/gcc_demo/gcc_receiver/build/CMakeFiles/gcc_receiver.dir
